@@ -15,4 +15,5 @@
         phpmodules: ["pchart", "ratchet", "mink"],
 },
     databases: ["MySql"],
-}}```
+}}
+```
