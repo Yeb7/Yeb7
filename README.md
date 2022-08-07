@@ -2,7 +2,7 @@
 
 
 ```javascript
-const Yeb7= {
+const Yeb7 = {
     personalty: {
         job: ["Student"],
         sex: ["Male"],
